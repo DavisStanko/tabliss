@@ -1,5 +1,5 @@
 # My Gruv Tabliss Configuration
-![placeholder](placeholder)
+![screenshot](https://raw.githubusercontent.com/DavisStanko/tabliss/main/1666754533.png)
 
 ## Author's Note
 
