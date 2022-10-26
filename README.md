@@ -1,5 +1,9 @@
-# My everyday Tabliss Configuration
-![Screenshot_2022-03-03-36_1900x929](https://user-images.githubusercontent.com/81704775/156823731-4bfe7263-da7f-4691-89ec-a231c722e253.png)
+# My Gruv Tabliss Configuration
+![placeholder](placeholder)
+
+## Author's Note
+
+This fork does very little apart from changing the colors used in the CSS file, adding a clock, and opting to hide the settings icon when it's not hovered. I strongly recommend using the original project [stationaryStation/tabliss](https://github.com/stationaryStation/tabliss) unless you want a gruvbox theme. The original project has custom fonts and it's CSS affects the settings pane unlike mine.
 
 ## Setup
 
@@ -8,16 +12,9 @@
 Go to settings and add the "Custom CSS" widget. Then copy the contents of main.css to the little box inside the configuration.
 
 ### Widgets Used (In order)
+
+Time
+
 Search Box
 
 Quick Links
-
-## Fonts
-
-[Inter Regular](https://fonts.google.com/specimen/inter) 14
-
-## Colorscheme
-
-[Catppuccin](https://github.com/catppuccin/catppuccin)
-
-
