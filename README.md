@@ -1,5 +1,5 @@
 # My Gruvbox Tabliss Configuration
-![screenshot](https://raw.githubusercontent.com/DavisStanko/tabliss/main/1666754533.png)
+![screenshot](https://raw.githubusercontent.com/DavisStanko/tabliss/main/1666755040.png)
 
 ## Author's Note
 
