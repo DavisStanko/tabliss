@@ -3,7 +3,7 @@
 
 ## Author's Note
 
-This fork does very little apart from changing the colors used in the CSS file, adding a clock, and opting to hide the settings icon when it's not hovered. I strongly recommend using the original project [stationaryStation/tabliss](https://github.com/stationaryStation/tabliss) unless you want a gruvbox theme. The original project has custom fonts and it's CSS affects the settings pane unlike mine.
+This fork does very little apart from changing the colors used in the CSS file, adding a clock, and opting to hide the settings icon when it's not hovered. I strongly recommend using the original project unless you want a gruvbox theme. The original project has custom fonts and it's CSS affects the settings pane unlike mine.
 
 ## Setup
 
